@@ -16,7 +16,9 @@
 - 💬 Ask me about my experience in .Net, Angular and React, or anything related to full-stack development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my Resume  
----  
+
+&nbsp;  
+&nbsp;  
 [![Resume](https://img.shields.io/badge/-My%20Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Vt3RDLbziUziFUYueJar8w6aysggVabJ/view?usp=drive_link)
 
 
