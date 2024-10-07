@@ -15,10 +15,10 @@
 - 👨‍💻 As a Software Engineer, I constantly learn and explore new technologies to improve my skills.
 - 💬 Ask me about my experience in .Net, Angular and React, or anything related to full-stack development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my CV
+- 👨‍💻 Check out my Resume
 
 &nbsp;
-[![My CV](https://img.shields.io/badge/-My%20CV-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Vt3RDLbziUziFUYueJar8w6aysggVabJ/view?usp=drive_link)
+[![My Resume](https://img.shields.io/badge/-My%20Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Vt3RDLbziUziFUYueJar8w6aysggVabJ/view?usp=drive_link)
 
 
 ### Connect with Me :
