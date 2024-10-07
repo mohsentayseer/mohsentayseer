@@ -8,14 +8,16 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Software Engineer.
 - 👨‍💻 As a Software Engineer, I constantly learn and explore new technologies to improve my skills.
 - 💬 Ask me about my experience with .Net, Angular and React, or anything related to full-stack development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-
+- 👨‍💻 Check out my Resume at https://drive.google.com/file/d/1Vt3RDLbziUziFUYueJar8w6aysggVabJ/view?usp=drive_link to see information about me.
+[![Resume](https://img.shields.io/badge/-My%20Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Vt3RDLbziUziFUYueJar8w6aysggVabJ/view?usp=drive_link)
+[Check out my Resume here](https://drive.google.com/file/d/1Vt3RDLbziUziFUYueJar8w6aysggVabJ/view?usp=drive_link)
 
 ### Connect with Me :
 
