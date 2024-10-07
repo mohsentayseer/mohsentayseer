@@ -32,7 +32,4 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![.net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
-![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=.net)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
